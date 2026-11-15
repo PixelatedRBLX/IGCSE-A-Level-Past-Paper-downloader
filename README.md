@@ -1,4 +1,4 @@
-# Past Paper Downloader
+# IGCSE and O-level Past Paper downloader
 
 A simple Windows app for downloading Cambridge IGCSE and O Level past papers, mark schemes and grade thresholds. Pick a subject, tick the papers, years and sessions you want, and press **Download**. The app finds each PDF and saves it into a tidy **Past papers** folder on your PC.
 
