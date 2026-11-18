@@ -4,6 +4,8 @@ A simple Windows app for downloading Cambridge IGCSE and O Level past papers, ma
 
 No typing file codes, no clicking through websites one paper at a time.
 
+Simply click the green "Code" button Click Download as ZIP
+
 ## Download and run (Windows)
 
 1. Go to the [Releases](../../releases) page and download **Past Paper Finder.exe**.
